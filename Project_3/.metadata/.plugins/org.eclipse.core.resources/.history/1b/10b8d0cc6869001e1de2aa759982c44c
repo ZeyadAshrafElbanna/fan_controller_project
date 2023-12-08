@@ -1,0 +1,13 @@
+/*
+ * PWM.c
+ *
+ *  Created on: 13 Oct 2023
+ *      Author: Zeyad El-banna
+ */
+#include"PWM.h"
+#include"gpio.h"
+void PWM_Timer0_Start(uint8 duty_cycle)
+{
+
+}
+
